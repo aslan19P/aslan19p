@@ -2,6 +2,8 @@
 
 Hi there! I’m Aslan — a backend developer passionate about building reliable and scalable systems. My journey into tech was inspired by my father and cousin, and I’ve been hooked ever since.
 
+🔗 **[View My Portfolio Website](https://aslan19p.uz)**
+
 ⸻
 
 📊 GitHub Stats
@@ -48,19 +50,9 @@ This project supports:
 
 ⸻
 
-🎯 Project Goal
-
-Build a modern developer portfolio that showcases real backend experience. One highlight: ComicCon.uz — the largest geek festival in Uzbekistan. I developed the entire backend system: event & ticket management, zones, sessions, guest APIs, Telegram bot, QR code generation, and multilingual support.
-
-⸻
-
 📬 Contact Me
 	•	📧 Email: matackubovaslan@gmail.com
-	•	🧵 Telegram: @aslan
-	•	🐙 GitHub: @aslanmatyakubov
+	•	🧵 Telegram: @Aslan19P
+	•	🐙 GitHub: @aslan19P
 
 ⸻
-
-💡 Favorite Quote
-
-“First you build your portfolio. Then your portfolio builds you.”
