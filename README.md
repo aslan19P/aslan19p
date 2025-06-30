@@ -7,12 +7,12 @@ Hi there! I’m Aslan — a backend developer passionate about building reliable
 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aslanmatyakubov&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aslana9P&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslanmatyakubov&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslan19P&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 
