@@ -2,7 +2,7 @@
 
 Hi there! I’m Aslan — a backend developer passionate about building reliable and scalable systems. My journey into tech was inspired by my father and cousin, and I’ve been hooked ever since.
 
-🔗 **[View My Portfolio Website](https://aslan19p.uz)**
+🔗 **[View My Portfolio Website](https://portfolio-website-ashen-two-27.vercel.app/)**
 
 ⸻
 
@@ -52,7 +52,7 @@ This project supports:
 
 📬 Contact Me
 	•	📧 Email: matackubovaslan@gmail.com
-	•	🧵 Telegram: @Aslan19P
+	•	🧵 Telegram: @AslanMatyakubov
 	•	🐙 GitHub: @aslan19P
 
 ⸻
