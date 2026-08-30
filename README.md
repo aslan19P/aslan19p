@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-website-ashen-two-27.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4169E1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://aslan19p.uz/en/"><img src="https://img.shields.io/badge/Portfolio-4169E1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/aslan-matyakubov"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://t.me/AslanMatyakubov"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="mailto:matackubovaslan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
