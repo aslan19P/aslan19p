@@ -54,20 +54,6 @@ Product requirements → API & data model → background jobs → deployment →
 
 REST API · OpenAPI · Webhooks · Payment providers · Telegram Bot API · Third-party services
 
-## Selected work
-
-### [AI Commit Message Bridge](https://github.com/aslan19P/ai-commit-message-bridge)
-
-A local-first VS Code extension and CLI that lets AI coding agents fill the native Git commit message box without staging, committing, pushing, API keys, or source-code uploads.
-
-### [Production backend portfolio](https://portfolio-website-ashen-two-27.vercel.app/)
-
-Commercial backend work across event platforms, CRM and ERP, education, retail/POS, booking, payments, and infrastructure. Some systems and implementation details remain private under NDA.
-
-### [Telegram Userbot Cleaner](https://github.com/aslan19P/Azo_bolingro_bot_tozalash)
-
-A small Docker-ready Telethon service for filtering and cleaning messages in selected chats through configurable rules.
-
 ## GitHub activity
 
 <p align="center">
